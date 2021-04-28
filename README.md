@@ -1,2 +1,3 @@
-# GitHub Template
-GitHub template for all my future GitHub repos
+# Go - Playground
+
+Playground to learn Go.
